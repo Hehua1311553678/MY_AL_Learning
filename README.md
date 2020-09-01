@@ -33,4 +33,5 @@
     2. 看论文：[Learning Loss for Active Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9027824)；
     3. 机器学习（网课）；
     4. 矩阵论（网课）；
+    5. 看Docker容器技术；
     
