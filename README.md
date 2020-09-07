@@ -100,7 +100,7 @@
     1. 改代码（基于最低置信度采样）:
     a. 画多个log文件acc-query图。
     b. CIFAR-10数据集：N=2+保留最近的N个模型+越近权重越大。
-    c. 保存准确率最高的N个模型
+    c. 保存准确率最高的N个模型, 准确率越高权重越大。
     换数据集（CIFAR-10/CIFAR-100），最后如果在声纹里面效果比较好就更好。
     2. 论文：
     a. 看完了Learning Loss for Active Learning；
@@ -108,9 +108,27 @@
     4. 统计学习方法（李航）:第4章朴素贝叶斯算法的参数估计——极大似然估计+贝叶斯估计；
     5. 矩阵论（网课）第四课：线性空间和线性变换；
 - 明日安排：
-    1. 改代码（基于最低置信度采样）：准确率越高权重越大;
-    画loss-query次数。
+    1. 改代码（基于最低置信度采样）：改用GPU跑;
+    画loss-query次数；
+    对CIFAR10改变pool和query数量。
     2. 看论文：Batch Active Learning With Two-Stage Sampling；
+    3. 机器学习（网课）；
+    4. 矩阵论（网课）；
+    5. 统计学习方法（李航）。
+    
+###### 2020/9/7
+- 今日工作：
+    1. 论文：摘要；
+    2. 代码：
+    a. 跑MNIST和CIFAR10的Rescent+AccMax和AccMax+RescentMax;
+    3. 统计学习方法（李航）:决策树前部分。
+    4. 机器学习（吴恩达）:第七章逻辑回归，线性回归外加Sigmoid函数；
+    5. 矩阵论（网课）第五课：1/3处；
+- 明日安排：
+    1. 看论文：Batch Active Learning With Two-Stage Sampling；
+    2. 改代码（基于最低置信度采样）：改用GPU跑;
+    画loss-query次数；
+    对CIFAR10改变pool和query数量。
     3. 机器学习（网课）；
     4. 矩阵论（网课）；
     5. 统计学习方法（李航）。
