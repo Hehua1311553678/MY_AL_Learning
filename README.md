@@ -148,3 +148,18 @@
     3. 机器学习（网课）；
     4. 矩阵论（网课）；
     5. 统计学习方法（李航）。
+    
+###### 2020/9/10
+- 今日工作：
+    1. 构建新项目（AL_utilize_previous_models 私有）
+    a. 初始有标记样本池1000个样本+每次query100个样本；
+    b. query策略更换为随机采样;
+    2. 论文：相关工作。
+- 明日安排：
+    1. 看论文：Batch Active Learning With Two-Stage Sampling；
+    2. AL_utilize_previous_models：更换模型（ResNet,VGG,AlexNet,LeNet）
+    3. 机器学习（网课）；
+    4. 矩阵论（网课）；
+    5. 统计学习方法（李航）；
+    6. Pytorch教程。
+    
