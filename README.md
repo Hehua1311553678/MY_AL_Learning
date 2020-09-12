@@ -162,4 +162,30 @@
     4. 矩阵论（网课）；
     5. 统计学习方法（李航）；
     6. Pytorch教程。
+###### 2020/9/11
+- 今日工作：
+    1. 论文:BATCH SAMPLING WITH BOUNDARY ANNOTATION第一小部分；
+    2. 项目AL_utilize_previous_models
+    a. 更换模型:ResNet-18;
+    3. 机器学习（网课）第9章:神经网络学习 看了一半；
+    4. A Survey of Deep Active Learning看了一点；
+    5. 统计学习方法（李航）:信息增益比;
+    6. Pytorch教程:单车预测。
     
+###### 2020/9/12
+- 今日工作：
+    1. 论文：initial seed sample based on clustering+依据多条规则批量采样；
+    2. AL_utilize_previous_models:
+    a. 跑MNIST/CIFAR10+ResNet-18+随机采样;
+    b. 跑CIFAR10+ResNet-18+最低置信度；
+    3. 机器学习（网课）第9章:神经网络学习 看完了；
+    4. 统计学习方法（李航）:决策树的生成（ID3，C4.5）;
+- 明日安排：
+    1. 看论文：Batch Active Learning With Two-Stage Sampling；
+    2. 跑代码：
+    MNIST+ResNet-18+最低置信度；
+    增加其他网络。
+    3. 机器学习（网课）；
+    4. 矩阵论（网课）；
+    5. 统计学习方法（李航）；
+    6. Pytorch教程。
