@@ -189,3 +189,24 @@
     4. 矩阵论（网课）；
     5. 统计学习方法（李航）；
     6. Pytorch教程。
+    
+###### 2020/9/13
+- 今日工作：
+    1. 论文:实验的前半部分；
+    2. 统计学习方法（李航）：决策树的剪枝（基于损失计算），CART生成（划分标准->回归树：平方误差最小化；分类树：基尼系数最小化）；
+    3. 改项目名：AL_UPM;
+    4. 机器学习（网课）:反向传播+梯度检测;
+    
+- 明日安排：
+    1. 跑代码：
+    CIFAR10+ResNet-18+N-5_Rescent_RescentMax重跑3次
+    CIFAR10+ResNet-18+边缘采样；
+    2. 画图：Average Accuracy-Number of Labeled Examples.+重复实验5次。
+    3. 看论文：
+    Batch Active Learning With Two-Stage Sampling；
+    Adversarial active learning for deep networks-A margin based approach；
+    4. 矩阵论（网课）；
+    5. 统计学习方法（李航）；
+    6. Pytorch教程；
+    7. 学术英语（网课）；
+    8. 机器学习（网课）。
