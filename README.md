@@ -219,10 +219,32 @@
 - 今日工作：
     1. 跑代码：
     CIFAR10+ResNet-18+N-5_Rescent_RescentMax重跑3次
-    
+
     [问题]
     每次重复跑的时候，没有删除model文件夹内容，使得准确率应该有提高，但这样跑应该不合理？是不是也有点合理。
+    
+    2. 画图：Average Accuracy-Number of Labeled Examples.+重复实验5次。
+
 - 明日安排：
     1. 阅读完UML第四章（智能信息检索课）；
     2. 矩阵论作业；
     3. 实验总结报告；
+    
+###### 2020/9/16
+- 今日工作：
+    1. 论文:Adverarial Sampling for Active Learning看了1/3;
+    2. 统计学习方法（李航）：logistic regression(二项/多项逻辑回归模型)；
+    3. 书：understanding machine learning :from theory to algorithm第四章(uniform convergence)；
+    4. 实验总结报告；
+    
+- 明日安排：
+    1. 智能信息检索作业：
+    (1). Chap 2 - p 41. 练习1，练习2
+    (2). Chap 3 - p 50. 练习1， 练习3， 练习5，练习6，练习7，练习8.
+    2. 论文：Adverarial Sampling for Active Learning；
+    3. 矩阵论作业；
+    4. 矩阵论（网课）；
+    5. 统计学习方法（李航）；
+    6. Pytorch教程；
+    7. 学术英语（网课）；
+    8. 机器学习（网课）。
