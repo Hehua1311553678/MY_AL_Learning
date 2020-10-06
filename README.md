@@ -343,4 +343,43 @@
     2. 随机过程；
 - 明日安排：
     1. 论文；
+
+---
+#### 2020/9总结
+1. 论文：
+    1. Learning Loss for Active Learning（可利用思想：loss prediction model）；
+    2. Batch Active Learning With Two-Stage Sampling（没怎么懂）；
+    3. Adverarial Sampling for Active Learning（可利用思想：对抗采样）；
+    4. Learning to Sample: an Active Learning Framework
+    （可利用思想：boost learning model+loss prediction model）；
     
+2. 网课：
+    1. 矩阵论（ing）;
+    2. 吴恩达 机器学习：总共20章，看了前10章（线性回归，逻辑回归，神经网络）；
+    3. 学术英语（finished）
+3. 书：
+    1. Docker容器技术：了解容器的概念；（创建的docker没有关，内存占用特别大）
+    2. 李航 统计学习方法：了解贝叶斯算法（最大似然估计，贝叶斯估计 还有点混）
+    /决策树（构造树+剪枝策略）【决策树：实际也是一种集成学习算法】；
+    3. understanding machine learning :from theory to algorithm
+    的第4/5/6章，其余章节略读(智能信息检索课程要求)
+4. 实验：
+    在构造AL_UPM项目（基于deep active learning项目），做了两次对比实验，了解了随机采样+最低置信度采样的代码实现，
+    在实验设置上有一些基本问题（如：小样本量+重复多次实验+target model的选择）。
+    问题：提出想法+实验+验证。
+#### 2020/10计划
+1. 10月10号做小组论文分享。
+2. 针对研究问题复现参考论文代码，看效果，提出自己的方法，实现。
+    1. 一周两篇论文，复现一篇论文；
+    2. 每周提出新想法，并实现（随便想~）
+---
+###### 2020/10/5
+- 今日工作：
+    1. 矩阵论网课：P13矩阵的标准型（2）；
+    2. 看完论文State-Relabeling Adversarial Active Learning；
+###### 2020/10/6
+- 今日工作：
+    1. 矩阵论网课：P15矩阵的标准型（4）；
+    2. 随机过程；
+- 明日安排：
+    1. 回顾论文，做PPT;
