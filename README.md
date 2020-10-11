@@ -383,3 +383,24 @@
     2. 随机过程；
 - 明日安排：
     1. 回顾论文，做PPT;
+###### 2020/10/7
+- 今日工作：
+    1. 回顾论文；
+###### 2020/10/8
+- 今日工作：
+    1. 看论文：The power of ensembles for active learning in image classification；
+###### 2020/10/10
+- 今日工作：
+    1. 论文公式；
+- 明日安排：
+    1. PPT；
+    2. “A Mathmatician's Apology”+形而上学概念；
+###### 2020/10/11
+- 今日工作：
+    1. 看完论文：Learning How to Active Learn by Dreaming；
+    2. PPT做了框架；
+    3. “A Mathmatician's Apology”
+    形而上学（不行下学=^_^=）。
+- 明日安排：
+    1. 细化PPT内容（结合代码）；
+    
